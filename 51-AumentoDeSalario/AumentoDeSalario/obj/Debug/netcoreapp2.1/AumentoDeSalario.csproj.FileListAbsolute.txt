@@ -1,0 +1,11 @@
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\bin\Debug\netcoreapp2.1\AumentoDeSalario.deps.json
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\bin\Debug\netcoreapp2.1\AumentoDeSalario.runtimeconfig.json
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\bin\Debug\netcoreapp2.1\AumentoDeSalario.runtimeconfig.dev.json
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\bin\Debug\netcoreapp2.1\AumentoDeSalario.dll
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\bin\Debug\netcoreapp2.1\AumentoDeSalario.pdb
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\obj\Debug\netcoreapp2.1\AumentoDeSalario.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\obj\Debug\netcoreapp2.1\AumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\obj\Debug\netcoreapp2.1\AumentoDeSalario.AssemblyInfoInputs.cache
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\obj\Debug\netcoreapp2.1\AumentoDeSalario.AssemblyInfo.cs
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\obj\Debug\netcoreapp2.1\AumentoDeSalario.dll
+C:\Users\tauro\Desktop\AumentoDeSalario\AumentoDeSalario\obj\Debug\netcoreapp2.1\AumentoDeSalario.pdb
